@@ -20,7 +20,7 @@
     "@copilotkit/a2ui-renderer": "1.55.2",
     "@copilotkit/react-core": "1.55.2",
     "@copilotkit/runtime": "1.55.2",
-    "hono": "^4.6.18",
+    "hono": "^4.12.14",
     "next": "^16.0.10",
     "react": "^19.2.3",
     "react-dom": "^19.2.3",
